@@ -1,0 +1,29 @@
+
+E
+java:S1197"*Move the array designators [] to the type.(Æ§Àıÿÿÿÿ
+V	java:S125*"<This block of commented-out lines of code should be removed.(ÁŸàõûÿÿÿÿ
+@
+java:S1197G"*Move the array designators [] to the type.(Óê£ë
+Q	java:S125Q"<This block of commented-out lines of code should be removed.(óÍµ
+N	java:S106}"9Replace this use of System.out or System.err by a logger.(î­¯¿
+O	java:S106€"9Replace this use of System.out or System.err by a logger.(ıÛÎê
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+O	java:S106º"9Replace this use of System.out or System.err by a logger.(¦–íÆ
+T	java:S106Ö"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+V
+java:S1854ä":Remove this useless assignment to local variable "length".(ÑÃŠŞıÿÿÿÿ
+T	java:S106ß"9Replace this use of System.out or System.err by a logger.(œ¢¿­şÿÿÿÿ
+T	java:S106à"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ
+G
+java:S1481ä"+Remove this unused "length" local variable.(ÑÃŠŞıÿÿÿÿ
+O	java:S106æ"9Replace this use of System.out or System.err by a logger.(í°Ìë
+W	java:S125å"<This block of commented-out lines of code should be removed.(‹éû¦øÿÿÿÿ
+T	java:S106ê"9Replace this use of System.out or System.err by a logger.(Ù“ñıÿÿÿÿ
+T	java:S106ë"9Replace this use of System.out or System.err by a logger.(Ø î¿ıÿÿÿÿ
+W	java:S125í"<This block of commented-out lines of code should be removed.(‡çŞôÿÿÿÿÿ
+T	java:S106ñ"9Replace this use of System.out or System.err by a logger.(Š½Ôƒüÿÿÿÿ
+O	java:S106ô"9Replace this use of System.out or System.err by a logger.(‹•†ô
+O	java:S106÷"9Replace this use of System.out or System.err by a logger.(•©úÓ
+W	java:S125õ"<This block of commented-out lines of code should be removed.(éü†ùÿÿÿÿ
+O	java:S106ø"9Replace this use of System.out or System.err by a logger.(¬¯Ÿ¨
+n	java:S127°"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ş¼Ş¢
